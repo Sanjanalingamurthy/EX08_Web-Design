@@ -152,7 +152,7 @@
 ~~~
 
 ## OUTPUT
-![pic1](https://github.com/Sanjanalingamurthy/EX08_Web-Design/assets/127816526/286adb1f-dec6-40a0-b722-8b8ce631d015)
+
 ![pic2](https://github.com/Sanjanalingamurthy/EX08_Web-Design/assets/127816526/61ece636-1d09-4a96-9220-c504a3769087)
 
 
